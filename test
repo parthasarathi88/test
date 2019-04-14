@@ -1,1 +1,4 @@
-hndvndvnnvn
+#!/bin/bash
+echo "The date is : `date`"
+echo "The file system is `df -kh`"
+echo "---------------------------"
